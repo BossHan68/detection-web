@@ -8,8 +8,6 @@ cycler==0.12.1
 flatbuffers==25.12.19
 fonttools==4.61.1
 idna==3.11
-jax==0.6.2
-jaxlib==0.6.2
 kiwisolver==1.4.9
 matplotlib==3.10.8
 mediapipe==0.10.21
